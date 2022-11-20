@@ -7,4 +7,4 @@ A barplot and a table display the number of stays per hospital, for patients pre
 
 ### Results
 
-![]() <img src="images/td2.png"  width="600">
+![]() <img src="images/td2.png"  width="800">
